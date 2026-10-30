@@ -1,5 +1,7 @@
 # ZERO TRUST SECURITY
 ### Praktikum Keamanan Informasi
+
+**Rafi Ahnaf Hanafi — 247006111089**
 **Program Studi Informatika — Universitas Siliwangi**
 
 ## 1. Deskripsi Project
